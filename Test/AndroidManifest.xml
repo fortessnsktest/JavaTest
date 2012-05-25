@@ -5,6 +5,8 @@
     package="com.test"
     android:versionCode="1" android:versionName="1.0">
 
+    <uses-sdk android:targetSdkVersion="4"/>
+
     <application android:label="@string/application_name">
 
         <activity android:name="MainActivity">
